@@ -1,0 +1,9 @@
+output/
+*.pfx
+*.key
+*.pem
+*.cer
+*.log
+*.jsonl
+.env
+*.secrets.*
