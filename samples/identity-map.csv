@@ -1,0 +1,6 @@
+SourceIdentity,TargetType,TargetPrincipal
+"CONTOSO\Finance-Read",Group,"Finance Readers"
+"CONTOSO\Finance-Modify",Group,"Finance Contributors"
+"CONTOSO\alice",User,"alice@contoso.com"
+"BUILTIN\Administrators",Skip,""
+"NT AUTHORITY\SYSTEM",Skip,""
